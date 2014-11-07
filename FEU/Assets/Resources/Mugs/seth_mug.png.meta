@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 5984aebdf2e68cb4d8fcf40040ac0e1a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: seth_mug_0
+    21300002: seth_mug_1
+    21300004: seth_mug_2
+    21300006: seth_mug_3
+    21300008: seth_mug_4
+    21300010: seth_mug_5
+    21300012: seth_mug_6
+    21300014: seth_mug_7
+    21300016: seth_mug_8
+    21300018: seth_mug_9
+    21300020: seth_mug_10
+    21300022: seth_mug_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: seth_mug_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 322
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 322
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 322
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 221
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_4
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 221
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 221
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 120
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 120
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 120
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 19
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: seth_mug_11
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 19
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

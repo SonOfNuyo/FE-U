@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: fa7000622bcbad3449930179bf04537e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FemaleMercSheet_0
+    21300002: FemaleMercSheet_1
+    21300004: FemaleMercSheet_2
+    21300006: FemaleMercSheet_3
+    21300008: FemaleMercSheet_4
+    21300010: FemaleMercSheet_5
+    21300012: FemaleMercSheet_6
+    21300014: FemaleMercSheet_7
+    21300016: FemaleMercSheet_8
+    21300018: FemaleMercSheet_9
+    21300020: FemaleMercSheet_10
+    21300022: FemaleMercSheet_11
+    21300024: FemaleMercSheet_12
+    21300026: FemaleMercSheet_13
+    21300028: FemaleMercSheet_14
+    21300030: FemaleMercSheet_15
+    21300032: FemaleMercSheet_16
+    21300034: FemaleMercSheet_17
+    21300036: FemaleMercSheet_18
+    21300038: FemaleMercSheet_19
+    21300040: FemaleMercSheet_20
+    21300042: FemaleMercSheet_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FemaleMercSheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 166
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 166
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 166
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_7
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 122
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 122
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 90
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 90
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 90
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 90
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 58
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 58
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 58
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 58
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_19
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 26
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FemaleMercSheet_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 26
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
